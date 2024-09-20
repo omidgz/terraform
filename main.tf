@@ -1,6 +1,6 @@
 # Step 1: Define the provider
 provider "aws" {
-  region = "us-west-1" # Set your preferred region
+  region = "us-east-1" # Set your preferred region
 }
 
 # Step 2: Define the resource (EC2 instance)
